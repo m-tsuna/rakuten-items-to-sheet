@@ -1,0 +1,13 @@
+# 鍵のファイル（絶対に公開しない）
+.env
+service_account.json
+
+# 提出用のファイル
+提出記事.md
+提出記事.html
+
+# Python が自動で作るフォルダ
+__pycache__/
+
+# Mac が自動で作るファイル
+.DS_Store
