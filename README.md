@@ -24,6 +24,12 @@ $ python main.py
 
 楽天の Web ページのスクレイピングはせず、公式の API だけを使います。
 
+## 使う技術
+
+- Python 3（requests・python-dotenv・gspread）
+- 楽天ウェブサービス API（商品の価格・在庫を取得）
+- Google Sheets API（サービスアカウントで書き込み）
+
 ## 事前準備
 
 - Python 3（Anaconda で動作確認）
